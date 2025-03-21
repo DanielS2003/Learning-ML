@@ -3,6 +3,7 @@
 """
 day 3, linear regression again, with pandas
 using data from UC Irvine's ML data library
+Note to reader: If you want this to work on your machine, download student-mat.csv and put in the same folder you keep this file.
 """
 import numpy as np
 import pandas as pd
