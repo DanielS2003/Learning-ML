@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 day 1 of learning ML, linear regression and k-nearest neighbors
+Note to potential reader: You need student-mat.csv for this program
 """
 
 import numpy as np
